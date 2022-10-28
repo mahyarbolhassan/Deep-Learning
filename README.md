@@ -1,1 +1,2 @@
-# Deep-Learning
+# DL
+Deep learning course project
